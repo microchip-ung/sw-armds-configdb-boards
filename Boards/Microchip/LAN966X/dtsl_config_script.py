@@ -1,4 +1,4 @@
-import pydevd
+#import pydevd
 from com.arm.debug.dtsl.configurations import ConfigurationBaseSDF
 from com.arm.debug.dtsl.configurations import DTSLv1
 from com.arm.debug.dtsl.components import FormatterMode

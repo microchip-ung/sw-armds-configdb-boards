@@ -1,4 +1,4 @@
-import pydevd
+#import pydevd
 from com.arm.rddi import RDDI
 from com.arm.rddi import RDDI_JTAGS_STATE
 from com.arm.rddi import RDDI_JTAGS_IR_DR
